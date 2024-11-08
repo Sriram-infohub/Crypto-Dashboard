@@ -1,5 +1,3 @@
-![Screenshot 2024-11-08 082311](https://github.com/user-attachments/assets/68522a87-dccc-4ead-b2ba-157ed7949a73)# Cryptocurrency Analysis Dashboard
-
 ## Overview
 The **Cryptocurrency Analysis Dashboard** is a comprehensive tool built to provide real-time insights into the dynamic world of cryptocurrency. By leveraging data visualizations and analytics, this dashboard empowers investors and analysts to make informed decisions based on market trends, volume analysis, and performance metrics.
 
