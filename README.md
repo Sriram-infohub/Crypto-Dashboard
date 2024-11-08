@@ -1,8 +1,9 @@
+## Dashboard link
+(https://app.powerbi.com/reportEmbed?reportId=7e0ab1ad-2968-4c79-9b8f-4699b6a24796&autoAuth=true&ctid=7b0130f1-5446-414e-848d-c136c10a4340)
 ## Overview
 The **Cryptocurrency Analysis Dashboard** is a comprehensive tool built to provide real-time insights into the dynamic world of cryptocurrency. By leveraging data visualizations and analytics, this dashboard empowers investors and analysts to make informed decisions based on market trends, volume analysis, and performance metrics.
 
 ![Cryptocurrency Analysis](https://github.com/user-attachments/assets/ebfba874-da69-4f1f-842a-d88dad47bf6d)
-
 
 ## Features
 - **Market Trends**: Visual representation of price fluctuations for major cryptocurrencies.
